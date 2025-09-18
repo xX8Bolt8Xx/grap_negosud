@@ -1,0 +1,4 @@
+C:\Users\ethan\source\repos\grap_negosud\grap_negosud\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ethan\source\repos\grap_negosud\grap_negosud\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ethan\source\repos\grap_negosud\grap_negosud\obj\Debug\net8.0-windows\grap_negosud_MarkupCompile.cache
+C:\Users\ethan\source\repos\grap_negosud\grap_negosud\obj\Debug\net8.0-windows\grap_negosud_MarkupCompile.lref
