@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|c:\\users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|solutionrelative:restaurant_pc_portable_graphique_true\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|c:\\users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\classe\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|solutionrelative:restaurant_pc_portable_graphique_true\\classe\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|c:\\users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\classe\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|solutionrelative:restaurant_pc_portable_graphique_true\\classe\\commande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|c:\\users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\classe\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|solutionrelative:restaurant_pc_portable_graphique_true\\classe\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|c:\\users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1FF495F-E06A-4F08-B21B-BA784BB73AC8}|restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true.csproj|solutionrelative:restaurant_pc_portable_graphique_true\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\Classe\\Table.cs",
+              "RelativeDocumentMoniker": "restaurant_pc_portable_graphique_true\\Classe\\Table.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\Classe\\Table.cs",
+              "RelativeToolTip": "restaurant_pc_portable_graphique_true\\Classe\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:17:18.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\Classe\\Article.cs",
+              "RelativeDocumentMoniker": "restaurant_pc_portable_graphique_true\\Classe\\Article.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\Classe\\Article.cs",
+              "RelativeToolTip": "restaurant_pc_portable_graphique_true\\Classe\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:28:43.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Commande.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\Classe\\Commande.cs",
+              "RelativeDocumentMoniker": "restaurant_pc_portable_graphique_true\\Classe\\Commande.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\Classe\\Commande.cs",
+              "RelativeToolTip": "restaurant_pc_portable_graphique_true\\Classe\\Commande.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:12:35.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "restaurant_pc_portable_graphique_true\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\MainWindow.xaml",
+              "RelativeToolTip": "restaurant_pc_portable_graphique_true\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T06:56:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "restaurant_pc_portable_graphique_true\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\restaurant_pc_portable_graphique_true\\restaurant_pc_portable_graphique_true\\MainWindow.xaml.cs",
+              "RelativeToolTip": "restaurant_pc_portable_graphique_true\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAwNYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T06:56:30.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

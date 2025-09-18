@@ -1,0 +1,9 @@
+﻿<Application x:Class="restaurant_pc_portable_graphique_true.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:restaurant_pc_portable_graphique_true"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
